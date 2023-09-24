@@ -1,0 +1,23 @@
+main {
+    height: 200vh;
+  }
+
+  .navbar {
+    background-color: rgb(102,102,102);
+    color: #faf9f9;
+    display: flex;
+    justify-content: start;
+}
+
+a {
+    margin: 10px;
+}
+  
+ 
+  
+  @font-face {
+    font-family: "NarrowNews"; 
+    src: url("./fonts/ClanOT-NarrowNews.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
