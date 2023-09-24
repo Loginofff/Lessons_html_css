@@ -14,7 +14,15 @@ main {
 
 a {
     margin: 10px;
-    font-family:"NarrowNews";
+    
+}
+
+a:hover {
+  color: rgb(64, 58, 58);
+}
+
+.navbar:hover {
+  background-color: #757474;
 }
   
  
